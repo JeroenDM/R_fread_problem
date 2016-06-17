@@ -52,3 +52,4 @@ The row number and data field for which this warning shows up changes every time
        0.000s (  0%) Changing na.strings to NA
        0.067s        Total
        
+The error is also reported [here](https://github.com/Rdatatable/data.table/issues/1496).
